@@ -39,7 +39,6 @@ Mis áreas principales de interés:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloacebron10-droid&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" alt="Lenguajes más usados" />
 </p>
 
-<img src="https://media.giphy.com/media/3o7TKsQHcwE8qG7Dre/giphy.gif" width="100%">
 
 ### Contacto ✉️
 
