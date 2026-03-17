@@ -2,13 +2,8 @@
   Pablo Acebrón 👋
 </h1>
 
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="50%" height="50%">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQHcwE8qG7Dre/giphy.gif" width="300" height="150"/>
-</div>
-
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="100%">
 
 ### Sobre mí 💼
 
@@ -21,7 +16,6 @@ Mis áreas principales de interés:
 - Desarrollo de aplicaciones multiplataforma y gestión de datos  
 - Frontend básico con **HTML/CSS** para complementar mis proyectos  
 
-<img src="https://media.giphy.com/media/l0HlPjezSrrJv2k0k/giphy.gif" width="100%">
 
 ### Tecnologías y Herramientas ⚙️
 
