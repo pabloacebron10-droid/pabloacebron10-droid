@@ -2,7 +2,7 @@
   Pablo Acebrón 👋
 </h1>
 
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="50%" height="50%">
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="50%" height="50%" align="center">
 
 <hr>
 
