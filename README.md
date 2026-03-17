@@ -4,6 +4,7 @@
 
 <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="50%" height="50%">
 
+<hr>
 
 ### Sobre mí 💼
 
@@ -16,6 +17,7 @@ Mis áreas principales de interés:
 - Desarrollo de aplicaciones multiplataforma y gestión de datos  
 - Frontend básico con **HTML/CSS** para complementar mis proyectos  
 
+<hr>
 
 ### Tecnologías y Herramientas ⚙️
 
@@ -32,6 +34,8 @@ Mis áreas principales de interés:
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
+<hr>
+
 ### Estadísticas en GitHub 📊
 
 <p align="center">
@@ -39,6 +43,7 @@ Mis áreas principales de interés:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloacebron10-droid&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdae" alt="Lenguajes más usados" />
 </p>
 
+<hr>
 
 ### Contacto ✉️
 
